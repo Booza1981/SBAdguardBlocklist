@@ -4,3 +4,5 @@
 ||vs-hds-uk-live.akamaized.net^
 ||vs-cmaf-push-uk-live.akamaized.net^
 ||bbci.co.uk^
+||emp.bbci.co.uk^
+||uas-a127-apiman.api.bbc.co.uk^
