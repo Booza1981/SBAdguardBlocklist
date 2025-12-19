@@ -1,0 +1,6 @@
+||*^$client='SadieDisplay'
+||iplayer.bbc.co.uk^
+||ssl.bbc.co.uk^
+||vs-hds-uk-live.akamaized.net^
+||vs-cmaf-push-uk-live.akamaized.net^
+||bbci.co.uk^
