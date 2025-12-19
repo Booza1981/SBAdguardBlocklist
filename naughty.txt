@@ -6,3 +6,8 @@
 ||bbci.co.uk^
 ||emp.bbci.co.uk^
 ||uas-a127-apiman.api.bbc.co.uk^
+||bbcsmarttv.2cnt.net^
+||bidi.net.uk^
+||bidi.bbc.co.uk^
+||api.bbc.co.uk^
+||ibl.api.bbci.co.uk^
