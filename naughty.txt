@@ -11,3 +11,5 @@
 ||bidi.bbc.co.uk^
 ||api.bbc.co.uk^
 ||ibl.api.bbci.co.uk^
+||1visions.co.uk^
+||192.168.1.24^
